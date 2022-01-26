@@ -8,6 +8,7 @@ const dirPath = path.join(__dirname, '/public')
 
 fs.mkdirSync(dirPath)
 ```
+After:
 
 ```
 import dirname from 'ususdirname'

@@ -1,0 +1,12 @@
+{
+  "name": "ususdirname",
+  "version": "1.0.0",
+  "description": "Simple replacement for __dirname in es modules",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

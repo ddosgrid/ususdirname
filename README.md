@@ -13,7 +13,7 @@ After:
 
 ```javascript
 import dirname from 'ususdirname'
-const __dirname = dirname()
+const __dirname = dirname(import.meta.url)
 
 import fs from 'fs'
 import path from 'path'
